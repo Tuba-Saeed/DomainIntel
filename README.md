@@ -25,7 +25,7 @@
 
   # Installation
   **Step1**
-  git clone https://github.com/Tuba-Saeed/DomainIntel.git
+  git clone https://github.com/Tuba-Saeed/DomainIntel.git                        
 **step2**
 python3 DomainIntel.py
 
