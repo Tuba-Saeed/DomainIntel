@@ -1,5 +1,17 @@
 # DomainIntel
-  DomainIntel is a comprehensive domain information gathering tool designed to fetch and analyze a variety of details about domains. This tool helps security professionals, network administrators, and developers to gather essential information about domain names efficiently.
+
+DomainIntel is a tool for gathering various types of information about domains. It includes functionalities such as:
+
+- IP address retrieval
+- DNS records lookup
+- Server details fetching
+- WHOIS information retrieval
+- SSL certificate details extraction
+- Subdomain enumeration
+- Port scanning
+- Free email domain lookup
+- MAC address lookup
+
   
   # Features
   **IP Address Lookup:**   
