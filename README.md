@@ -20,7 +20,7 @@
   Perform a traceroute to map the path packets take to the domain.   
   **Free Email Lookup:**   
   Check if a domain in is associated with free email services.   
-**Subdomain Enumeration:** 
+**Subdomain Enumeration:**   
 Identify subdomains associated with a domain.   
   **MAC Address Lookup:**   
   Example placeholder for MAC address lookup.   
