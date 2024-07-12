@@ -22,5 +22,10 @@
   Check if a domain in is associated with free email services.
   **MAC Address Lookup:**
   Example placeholder for MAC address lookup.
+
+  # Installation
+python3 DomainIntel.py
+
+  
   
   
