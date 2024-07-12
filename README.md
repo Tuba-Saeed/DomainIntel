@@ -34,15 +34,14 @@ Check your shell and with command
 echo $0
 
 ```
-Edit .bashrc or zshrc
-
-```
+Edit .bashrc or zshrc 
 
 
 ```bash
 nano ~/.bashrc
 
 ```
+
 ```bash
 nano ~/.zshrc
 
@@ -68,15 +67,14 @@ Go to the same directory where you clone the tool and type
 pip install . 
 
 ```
-After completing the installtion you need to type in your terminal 
-
-```bash
+After completing the installtion you need to type in your terminal  
 
  
 ```bash
 python3 -m DomainIntel
 
 ```
+Or You Can Type 
 
 ```bash
 python3 -m DomainIntel example.com
