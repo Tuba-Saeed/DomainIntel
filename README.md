@@ -56,7 +56,7 @@ After adding the path and installation is done close the previous terminal and o
 ## How to Install
 
 ```bash
-git clone https://github.com/s-zahir/mr_dns.git
+https://github.com/Tuba-Saeed/DomainIntel.git
 
 ```
 Go to the same directory where you clone the tool and type
@@ -68,14 +68,18 @@ pip install .
 After completing the installtion you need to type in your terminal 
 
 ```bash
- python3 -m DomainIntel 
-OR
 
-python3 -m DomainIntel example.com
-
-
+ 
+```bash
+python3 -m DomainIntel
 
 ```
+
+```bash
+python3 -m DomainIntel example.com
+```
+
+
 
 
 
