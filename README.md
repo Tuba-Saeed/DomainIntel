@@ -1,6 +1,6 @@
 # DomainIntel
 
-DomainIntel is a tool for gathering various types of information about domains. It includes functionalities such as:
+DomainIntel is a tool for gathering various types of information about domains. 
 
 
 
