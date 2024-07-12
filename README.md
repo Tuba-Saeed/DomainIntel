@@ -53,26 +53,32 @@ export PATH=$PATH:/home/(use your username here)/.local/bin
 After adding the path and installation is done close the previous terminal and open new one to try this tool.
 
 
-  # Installation   
-  **Step1:**
-  git clone https://github.com/Tuba-Saeed/DomainIntel.git  
-   **Step2**  
-   pip install .  
-
-   After completing the installtion you need to type in your terminal 
+## How to Install
 
 ```bash
- python3 -m DomainIntel example.com
+git clone https://github.com/s-zahir/mr_dns.git
 
-
-``` 
-**step2:**
 ```
-To uninstall the tool 
+Go to the same directory where you clone the tool and type
 
+```bash
+pip install . 
+
+```
+After completing the installtion you need to type in your terminal 
+
+```bash
+mr_dns www.bing.com 
+
+```
+
+
+
+## How to uninstall the tool 
 ```bash
 pip uninstall mr_dns
 
-  
+```
+
   
   
