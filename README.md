@@ -68,7 +68,12 @@ pip install .
 After completing the installtion you need to type in your terminal 
 
 ```bash
-mr_dns www.bing.com 
+ python3 -m DomainIntel 
+OR
+
+python3 -m DomainIntel example.com
+
+
 
 ```
 
