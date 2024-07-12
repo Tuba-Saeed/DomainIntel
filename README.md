@@ -6,10 +6,8 @@ DomainIntel is a tool for gathering various types of information about domains.
 
   
   # Features
-  **IP Address Lookup:**   
-  ```bash
-  Retrieve the IP address associated with a domain.
-```   
+  **IP Address Lookup:**    
+  Retrieve the IP address associated with a domain. 
   **DNS Records:**   
   Fetch DNS records (A, AAAA, MX, NS, SOA, TXT) for a domain.   
   **Server Details:**     
