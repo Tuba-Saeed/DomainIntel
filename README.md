@@ -36,6 +36,9 @@ echo $0
 ```
 Edit .bashrc or zshrc
 
+```
+
+
 ```bash
 nano ~/.bashrc
 
@@ -85,7 +88,7 @@ python3 -m DomainIntel example.com
 
 ## How to uninstall the tool 
 ```bash
-pip uninstall mr_dns
+pip uninstall DomainIntel
 
 ```
 
