@@ -28,11 +28,50 @@ DomainIntel is a tool for gathering various types of information about domains. 
 Identify subdomains associated with a domain.   
   **MAC Address Lookup:**   
   Example placeholder for MAC address lookup.   
+ ## Adding Path
+Check your shell and with command 
+```bash
+echo $0
+
+```
+Edit .bashrc or zshrc
+
+```bash
+nano ~/.bashrc
+
+```
+```bash
+nano ~/.zshrc
+
+```
+Add path in the last of the file.
+
+```bash
+export PATH=$PATH:/home/(use your username here)/.local/bin
+
+```
+After adding the path and installation is done close the previous terminal and open new one to try this tool.
+
+
   # Installation   
   **Step1:**
-  git clone https://github.com/Tuba-Saeed/DomainIntel.git                        
+  git clone https://github.com/Tuba-Saeed/DomainIntel.git  
+   **Step2**  
+   pip install .  
+
+   After completing the installtion you need to type in your terminal 
+
+```bash
+ python3 -m DomainIntel example.com
+
+
+``` 
 **step2:**
-python3 DomainIntel.py
+```
+To uninstall the tool 
+
+```bash
+pip uninstall mr_dns
 
   
   
